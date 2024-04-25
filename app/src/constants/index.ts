@@ -1,9 +1,18 @@
-export const CHAIN_ID = 23295
+// chainID has been updated to Scroll Sepolia ID
+export const CHAIN_ID = 534351	
+// TODO: not sure what safe-global-domain is && why its used
 export const SAFE_GLOBAL_DOMAIN = "https://safe.global"
 
+// TODO: need to deploy a minted address on seploia?
 export const SEPOLIA_MINT_ADDRESS = "0xa3fea399160ad54b2aaac277cf65eb3a673e84f5"
-export const BSC_TESTNET_MINT_ADDRESS = "0x376a73fb318c8c282e0281d41c75ad3375cc2654"
 
+// TODO: here to resolve error in mint.ts
+export const SEPOLIA_TESTNET_MINT_ADDRESS = ""
+
+// think we can leave bsc testnet, just do sepolia
+// export const BSC_TESTNET_MINT_ADDRESS = "0x376a73fb318c8c282e0281d41c75ad3375cc2654"
+
+// TODO: need to figure out what MPC pb is and change to use our own
 export const MPC_PUBLIC_KEY =
 "secp256k1:4HFcTSodRLVCGNVcGc4Mf2fwBBBxv9jxkGdiW2S2CA1y6UpVVRWKj6RX7d7TDt65k2Bj3w9FU4BGtt43ZvuhCnNt";
 
