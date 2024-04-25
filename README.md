@@ -1,6 +1,6 @@
 # ScrollSafe 🔒
 
-A decentralized solution for two-factor authentication (2FA), aiming to replace traditional solutions like Google’s Authenticator. By leveraging Oasis, Bandada, and Near, we provide a privacy-based solution that enhances the security of both web2 and web3 applications.
+A decentralized solution for two-factor authentication (2FA), aiming to replace traditional solutions like Google’s Authenticator. By leveraging Scroll Sepolia, we provide a privacy-based solution that enhances the security of both web2 and web3 applications.
 
 ## 🚀 Getting Started
 
